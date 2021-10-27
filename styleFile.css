@@ -1,0 +1,29 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.container {
+    width: 100%;
+}
+
+h2 {
+    height: 10%;
+    background-color: #800080;
+    text-align: center;
+    color: white;
+    padding: 2%;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1%;
+}
+
+.box {
+    border: 1px solid;
+    width: 30%;
+    background-color: skyblue;
+    padding: 20px;
+}
